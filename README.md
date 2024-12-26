@@ -13,19 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://capsule-render.vercel.app/api?
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-```yaml
-* A Passoinate Data Scientist creating solutions using ML/AI. Proficient in Deriving meaningful insights from Data. *
-```
-
-<h2> 💻 &nbsp;Skills</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/python-original.svg" alt="Python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/R-original.svg" alt="R" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/java-original.svg" alt="Java" width="45" height="45"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
