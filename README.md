@@ -12,18 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <div style="font-size: 2.5em; color: #FF4500; animation: pop 1.5s infinite;"> Hey There! </div>
 
-<style>
-@keyframes pop {
-  0%, 100% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.2);
-  }
-}
-div {
-    font-family: Arial, sans-serif;
-}
-</style>
+# Hey There!
+# I'm Noor Nick
+
+## About me:
+- A Data Scientist that is passionate about creating ML/AI solutions. Interested in Deriving meaningful insights from Data.
+
+## Skills
+[![Python]]
