@@ -64,3 +64,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Minitab-004A6D?style=for-the-badge&logo=minitab&logoColor=white" />
   <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
+
+<h2 align="center">🧠 Deep Learning Projects</h2>
+
+This repository serves as a hub for all my Deep Learning-related projects. Each project explores a different aspect of DL including CNNs, RNNs, GANs, and more.
+
+## 🔗 Repositories
+
+<img src="https://github.com/NoorNick/Deep-Learning/blob/main/__results___5_1.png?raw=true" width="400"/>
+### 1. Bone Fracture Detection
+- [Bone-Fracture-Detection-Repository](https://github.com/your-username/cnn-mnist-classifier)
