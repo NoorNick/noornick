@@ -25,12 +25,14 @@ Here are some ideas to get you started:
 <p align="center">
   Proficient in Model building, Data Analysis, and Data storytelling.
 </p>
+<br>
 
 <h2 align="center">Education 📝</h2>
 <p align="center">BSc in Statistics and Data Science</p>
 <p align="center">
  Microsoft Certified: Data Analyst Associate
 </p>
+<br>
 
 <h2 align="center">Skills 👨‍💻</h2>
 
@@ -64,6 +66,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Minitab-004A6D?style=for-the-badge&logo=minitab&logoColor=white" />
   <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
+<br>
+
+<h2 align="center">🤖 Machine Learning Projects</h2>
+This repository serves as a hub for all my Machine Learning-related projects. Each project explores a different aspect of ML.
+
+## 🔗 Repositories
+
+<h3>🏠 House Price Prediction</h3>
+<a href="https://github.com/NoorNick/House-Price-Prediction"> - House Price Prediction Repository </a>
+<br><br>
 
 <h2 align="center">🧠 Deep Learning Projects</h2>
 
@@ -72,6 +84,6 @@ This repository serves as a hub for all my Deep Learning-related projects. Each 
 ## 🔗 Repositories
 
 <img src="https://github.com/NoorNick/Deep-Learning/blob/main/__results___5_1.png?raw=true" width="400"/>
-<h3>1. Bone Fracture Detection</h3>
+<h3>🦴 Bone Fracture Detection</h3>
 <a href="https://github.com/NoorNick/Bone-Fracture-Detection/tree/main"> - Bone Fracture Detection Repository </a>
 
