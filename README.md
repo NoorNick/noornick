@@ -83,7 +83,7 @@ This repository serves as a hub for all my Deep Learning-related projects. Each 
 
 ## 🔗 Repositories
 
-<img src="https://github.com/NoorNick/Deep-Learning/blob/main/__results___5_1.png?raw=true" width="400"/>
+<img src="https://github.com/NoorNick/Bone-Fracture-Detection/blob/main/__results___5_1.png?raw=true" width="400"/>
 <h3>🦴 Bone Fracture Detection</h3>
 <a href="https://github.com/NoorNick/Bone-Fracture-Detection/tree/main"> - Bone Fracture Detection Repository </a>
 
