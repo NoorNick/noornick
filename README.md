@@ -70,11 +70,12 @@ Here are some ideas to get you started:
 
 <h2 align="center">🤖 Machine Learning Projects</h2>
 This repository serves as a hub for all my Machine Learning-related projects. Each project explores a different aspect of ML.
+<br>
+<a href="https://github.com/NoorNick/Machine-Learning/tree/main">to see all my ML Projects Click Here!</a>
 
 ## 🔗 Repositories
 
-<h3>🏠 House Price Prediction</h3>
-<a href="https://github.com/NoorNick/House-Price-Prediction"> - House Price Prediction Repository </a>
+<h3><a href="https://github.com/NoorNick/House-Price-Prediction">🏠 House Price Prediction</a></h3>
 <br><br>
 
 <h2 align="center">🧠 Deep Learning Projects</h2>
@@ -84,6 +85,5 @@ This repository serves as a hub for all my Deep Learning-related projects. Each 
 ## 🔗 Repositories
 
 <img src="https://github.com/NoorNick/Bone-Fracture-Detection/blob/main/__results___5_1.png?raw=true" width="400"/>
-<h3>🦴 Bone Fracture Detection</h3>
-<a href="https://github.com/NoorNick/Bone-Fracture-Detection/tree/main"> - Bone Fracture Detection Repository </a>
+<h3><a href="https://github.com/NoorNick/Bone-Fracture-Detection/tree/main">🦴 Bone Fracture Detection</a></h3>
 
