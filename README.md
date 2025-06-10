@@ -77,6 +77,7 @@ This repository serves as a hub for all my Machine Learning-related projects. Ea
 
 <h3><a href="https://github.com/NoorNick/House-Price-Prediction">🏠 House Price Prediction</a></h3>
 <h3><a href="https://github.com/NoorNick/Email-Spam-Classifier/tree/main">📧 Email Spam Classifier</a></h3>
+<h3><a href="https://github.com/NoorNick/Medical-Diagnosis-System">🩺 Medical Diagnosis System</a></h3>
 <br><br>
 
 <h2 align="center">🧠 Deep Learning Projects</h2>
