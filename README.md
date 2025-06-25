@@ -75,8 +75,8 @@ This repository serves as a hub for all my Machine Learning-related projects. Ea
 
 ## 🔗 Repositories
 
-<h3><a href="https://github.com/NoorNick/House-Price-Prediction">🏠 House Price Prediction</a></h3>
-<h3><a href="https://github.com/NoorNick/Email-Spam-Classifier/tree/main">📧 Email Spam Classifier</a></h3>
+<h3><a href="https://github.com/NoorNick/Transaction-Fraud-Detection/tree/main">💳 Transaction Fraud Detection</a></h3>
+<h3><a href="https://github.com/NoorNick/Customer-Churn-Prediction/tree/main">📉 Customer Churn Prediction</a></h3>
 <h3><a href="https://github.com/NoorNick/Medical-Diagnosis-System">🩺 Medical Diagnosis System</a></h3>
 <br><br>
 
