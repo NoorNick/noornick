@@ -1,24 +1,10 @@
-<!--
-**NoorNick/noornick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hey%20There!&animation=blinking&fontSize=40&height=80" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=6FC7E1&height=300&section=header&text=Noor%20Nick&fontSize=90" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=6FC7E1&height=300&section=header&text=Noor%20Nickahdar&fontSize=90" alt="header" />
 </div>
 
 <p align="center">A Data Scientist Passionate about creating solutions using ML/AI</p>
@@ -29,8 +15,38 @@ Here are some ideas to get you started:
 
 <h2 align="center">Education 📝</h2>
 <p align="center">BSc in Statistics and Data Science</p>
+<h2 align="center">Certifications 🏆</h2>
+
 <p align="center">
- Microsoft Certified: Data Analyst Associate
+<img src="https://images.credly.com/images/861df0cf-62e2-42d5-9980-3aed808cc462/blob" 
+     alt="GADA" 
+     width="80">
+  <img src="https://images.credly.com/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" 
+     alt="GDA" 
+     width="80">
+   <img src="https://images.credly.com/images/40a0acaa-c805-4b34-8544-5c78fe8c05b1/converted20260219-30-shp8gd.png" 
+     alt="PL-300" 
+     width="80">
+     <img src="https://images.credly.com/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/twitter_thumb_201604_image.png" 
+     alt="PL-300" 
+     width="80">
+</p>
+
+<p align="center">
+ DeepLearning.AI : Deep Learning Specialization
+</p>
+
+
+<p align="center">
+ Google Certified: Advanced Data Analytics
+ </p>
+
+ <p align="center">
+ Google Certified: Data Analytics
+ </p>
+ 
+<p align="center">
+ Microsoft Certified: Power BI Data Analyst Associate
 </p>
 <br>
 
